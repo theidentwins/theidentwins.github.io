@@ -1,4 +1,3 @@
 # theidentwins.github.io
-![Leader](leader.png) 
-<img src="leader.png" alt="Leader" width="300">
+<img src="leader.png" alt="Leader" width="400">
 
