@@ -1,9 +1,9 @@
-<img src="leader.png" alt="Leader" width="400">
+
 <div style="position: relative; display: inline-block;">
   <img src="leader.png" alt="Banner" style="width: 400px;">
   <div style="
     position: absolute;
-    top: 10px; 
+    top: 50px; 
     left: 10px;
     background: rgba(255, 0, 0, 0);
     color: white;
